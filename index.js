@@ -12,7 +12,7 @@ const client = new Client()
 client.on('qr', (qr) => {
 
     QRCode.toString(qr, { type: "terminal" }, function(err, url){
-        // Scan this QR code to signin the Bot
+        // Scan this QR code in your phone
         console.log(url);
     })
 
