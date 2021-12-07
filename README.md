@@ -11,4 +11,4 @@ $   npm install
 $   npm run dev
 ```
 
-> Scan the QR Code shown in your terminar
+> Scan the QR Code shown in your terminal
